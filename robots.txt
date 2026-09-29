@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.tvspxcm.cn/sitemap.xml
